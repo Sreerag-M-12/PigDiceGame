@@ -1,0 +1,7 @@
+C:\Users\sreerag.babu\Documents\C# Projects\PigDiceGame\bin\Debug\PigDiceGame.exe.config
+C:\Users\sreerag.babu\Documents\C# Projects\PigDiceGame\bin\Debug\PigDiceGame.exe
+C:\Users\sreerag.babu\Documents\C# Projects\PigDiceGame\bin\Debug\PigDiceGame.pdb
+C:\Users\sreerag.babu\Documents\C# Projects\PigDiceGame\obj\Debug\PigDiceGame.csproj.AssemblyReference.cache
+C:\Users\sreerag.babu\Documents\C# Projects\PigDiceGame\obj\Debug\PigDiceGame.csproj.CoreCompileInputs.cache
+C:\Users\sreerag.babu\Documents\C# Projects\PigDiceGame\obj\Debug\PigDiceGame.exe
+C:\Users\sreerag.babu\Documents\C# Projects\PigDiceGame\obj\Debug\PigDiceGame.pdb
